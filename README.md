@@ -1,55 +1,161 @@
-## Muhammad Abqari Zulkifli
+# 🚀 Muhammad Abqari Zulkifli
 
-**LinkedIn:** [www.linkedin.com/in/muhammad-abqari-zulkifli](https://www.linkedin.com/in/muhammad-abqari-zulkifli)
+<div align="center">
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-abqari-zulkifli)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/enfernal777)
+[![Profile Views](https://komarev.com/ghpvc/?username=enfernal777&color=blueviolet&style=for-the-badge)](https://github.com/enfernal777)
 
-### Profile
-
-INTJ | Knowledge lover | Passionate about futuristic technology
-
-A multifaceted technologist with expertise in cybersecurity (OSINT, cryptography), data analytics, AI engineering, and quality assurance. Adept at prompt engineering, data visualization (Tableau), automation, scripting, and advanced analytical tools. Recognized for strong problem-solving skills and a love for continuous learning, especially in non-fiction and technology domains.
+</div>
 
 ---
 
-### Technical Skills
+## 🎯 Profile
 
-- **Cybersecurity:** OSINT, Cryptography, CTF competitions
-- **Data Analytics:** Tableau, Orange, KNIME
-- **AI & Engineering:** AI engineering, Prompt engineering
-- **Programming & Tools:** Python, Java, Windows CLI
-- **Quality Assurance:** Robot Framework, QA methodologies
+> **INTJ** | **Knowledge Enthusiast** | **Future Tech Visionary**
 
----
+```ascii
+┌─────────────────────────────────────────────────────────────┐
+│  🔐 Cybersecurity Specialist  │  📊 Data Analytics Expert   │
+│  🤖 AI Engineer              │  🛡️  Quality Assurance Pro  │
+└─────────────────────────────────────────────────────────────┘
+```
 
-### Projects
-
-- **Project Geass:** [Details or link, if available]
-- **QAgenius:** [Details or link, if available]
-- **PhishGuard:** [Details or link, if available]
+A **multifaceted technologist** with deep expertise spanning cybersecurity (OSINT, cryptography), data analytics, AI engineering, and quality assurance. Passionate about **prompt engineering**, **data visualization**, and **automation**. Known for exceptional problem-solving abilities and an insatiable appetite for continuous learning in cutting-edge technology domains.
 
 ---
 
-### Achievements
+## 🛠️ Technical Arsenal
 
-- **Rawsec CTF (2023):** Ranked in the top 10, advanced to grand finalist
-- **PETRONAS Inter-University CTF (2023):** Top 60% ranking, demonstrated strong problem-solving
-- **ASCIS CTF (2024):** Finalist, showcased advanced cybersecurity and cryptography skills
-- **International Battle of Hackers (IBOH) CTF (2024):** Competed internationally, tackled diverse challenges
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🔒 Cybersecurity
+- **OSINT** - Open Source Intelligence
+- **Cryptography** - Advanced encryption techniques
+- **CTF Competitions** - Capture The Flag expert
+- **Penetration Testing** - Security assessment
+
+### 🤖 AI & Engineering
+- **AI Engineering** - Machine learning systems
+- **Prompt Engineering** - LLM optimization
+- **Automation** - Process optimization
+- **Advanced Analytics** - Predictive modeling
+
+</td>
+<td valign="top" width="50%">
+
+### 📊 Data Analytics
+- **Tableau** - Advanced data visualization
+- **Orange** - Visual programming for data science
+- **KNIME** - Analytics platform
+- **Statistical Analysis** - Data-driven insights
+
+### 💻 Programming & Tools
+- **Python** - Advanced scripting & development
+- **Java** - Object-oriented programming
+- **Windows CLI** - Command line mastery
+- **Robot Framework** - Test automation
+
+</td>
+</tr>
+</table>
 
 ---
 
-### Publications & Presentations
+## 🚀 Featured Projects
 
-- **Conference Paper:**  
-  _Forecasting Sectoral Energy Usage and Demand Using AI_  
-  Presented at ICOCI2025 ([Conference Link](https://soc.uum.edu.my/icoci/2025/#:~:text=School%20of%20Computing%20%28SOC%29%2C%20Universiti%20Utara%20Malaysia%20%28UUM%29,practitioners%20to%20share%20their%20studies%27%20findings%20since%202006.))
+<div align="center">
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **🎭 Project Geass** | Advanced cybersecurity framework | `Python` `Cryptography` `OSINT` |
+| **🧠 QAgenius** | Intelligent quality assurance automation | `Robot Framework` `AI` `Python` |
+| **🛡️ PhishGuard** | Anti-phishing detection system | `Machine Learning` `Security` `Analytics` |
+
+</div>
 
 ---
 
-### Personal Interests
+## 🏆 Achievements & Recognition
 
-- Reading non-fiction
-- Exploring and mastering cutting-edge technology
+<div align="center">
+
+### 🥇 Cybersecurity Competitions
+
+</div>
+
+```
+🎯 Rawsec CTF (2023)
+   ├── 🏅 Top 10 Ranking
+   └── 🎖️ Grand Finalist
+
+🎯 PETRONAS Inter-University CTF (2023)
+   ├── 📊 Top 60% Performance
+   └── 🧩 Advanced Problem Solving
+
+🎯 ASCIS CTF (2024)
+   ├── 🏆 Finalist Achievement
+   └── 🔐 Cryptography Excellence
+
+🎯 International Battle of Hackers (IBOH) CTF (2024)
+   ├── 🌍 International Competition
+   └── 🎪 Diverse Challenge Mastery
+```
+
+---
+
+## 📚 Publications & Research
+
+<div align="center">
+
+### 📖 Academic Contributions
+
+</div>
+
+**🔬 Conference Paper**
+> **"Forecasting Sectoral Energy Usage and Demand Using AI"**
+> 
+> 📅 Presented at **ICOCI2025**  
+> 🏛️ School of Computing, Universiti Utara Malaysia  
+> 🔗 [Conference Details](https://soc.uum.edu.my/icoci/2025/#:~:text=School%20of%20Computing%20%28SOC%29%2C%20Universiti%20Utara%20Malaysia%20%28UUM%29,practitioners%20to%20share%20their%20studies%27%20findings%20since%202006.)
+
+---
+
+## 🌟 Personal Philosophy
+
+<div align="center">
+
+```
+"Technology is best when it brings people together and solves real problems"
+```
+
+### 💡 Interests & Passions
+- 📖 **Non-fiction Literature** - Continuous learning through reading
+- 🔬 **Emerging Technologies** - Exploring cutting-edge innovations
+- 🧠 **Knowledge Synthesis** - Connecting ideas across domains
+- 🎯 **Problem Solving** - Tackling complex challenges
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect & Collaborate!
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-abqari-zulkifli)
+
+**"Always learning, always building, always innovating"** 🚀
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=enfernal777&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
 
 ---
