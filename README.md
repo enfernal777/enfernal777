@@ -16,8 +16,8 @@
 
 ```ascii
 ┌─────────────────────────────────────────────────────────────┐
-│  🔐 Cybersecurity Specialist  │  📊 Data Analytics Expert   │
-│  🤖 AI Engineer              │  🛡️  Quality Assurance Pro  │
+│  🔐 Cybersecurity            │  📊 Data Analytics          │
+│  🤖 AI Engineer              │  🛡️ Quality Assurance       │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -33,15 +33,15 @@ A **multifaceted technologist** with deep expertise spanning cybersecurity (OSIN
 
 ### 🔒 Cybersecurity
 - **OSINT** - Open Source Intelligence
-- **Cryptography** - Advanced encryption techniques
-- **CTF Competitions** - Capture The Flag expert
-- **Penetration Testing** - Security assessment
+- **Cryptography** - Encryption techniques
+- **CTF Competitions** - Capture The Flag 
+- **Penetration Testing** - Security assessment 
 
 ### 🤖 AI & Engineering
 - **AI Engineering** - Machine learning systems
 - **Prompt Engineering** - LLM optimization
 - **Automation** - Process optimization
-- **Advanced Analytics** - Predictive modeling
+- **Advanced Analytics** - Forecasting/Predictive modeling
 
 </td>
 <td valign="top" width="50%">
@@ -70,7 +70,7 @@ A **multifaceted technologist** with deep expertise spanning cybersecurity (OSIN
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **🎭 Project Geass** | Advanced cybersecurity framework | `Python` `Cryptography` `OSINT` |
+| **🎭 Project Geass** | Business Ideas | `Node.js` `AI`|
 | **🧠 QAgenius** | Intelligent quality assurance automation | `Robot Framework` `AI` `Python` |
 | **🛡️ PhishGuard** | Anti-phishing detection system | `Machine Learning` `Security` `Analytics` |
 
@@ -101,7 +101,7 @@ A **multifaceted technologist** with deep expertise spanning cybersecurity (OSIN
 
 🎯 International Battle of Hackers (IBOH) CTF (2024)
    ├── 🌍 International Competition
-   └── 🎪 Diverse Challenge Mastery
+   └── 🎪 New Categories Introduced
 ```
 
 ---
@@ -145,7 +145,7 @@ A **multifaceted technologist** with deep expertise spanning cybersecurity (OSIN
 
 ### 🤝 Let's Connect & Collaborate!
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abqari777@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-abqari-zulkifli)
 
 **"Always learning, always building, always innovating"** 🚀
