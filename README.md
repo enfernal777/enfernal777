@@ -148,7 +148,7 @@ A **multifaceted technologist** with deep expertise spanning cybersecurity (OSIN
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abqari777@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-abqari-zulkifli)
 
-**"Always learning, always building, always innovating"** 🚀
+**"You should never take advice from somebody that ain't try"** 🚀
 
 </div>
 
