@@ -21,7 +21,8 @@
 └─────────────────────────────────────────────────────────────┘
 ```
 
-A **multifaceted technologist** with deep expertise spanning cybersecurity (OSINT, cryptography), data analytics, AI engineering, and quality assurance. Passionate about **prompt engineering**, **data visualization**, and **automation**. Known for exceptional problem-solving abilities and an insatiable appetite for continuous learning in cutting-edge technology domains.
+Usually spent my time to solve problems. Reading books one of my hobbies because I do believe on "You choose your habit and your habit decides your future".
+`Even the fools know, the point is to understand`
 
 ---
 
